@@ -8,9 +8,13 @@
 </p>
 
 
+<!-- Resume Button -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RoyRoki&theme=tokyonight&no-bg=true&no-frame=true"/>
+  <a href="https://drive.google.com/file/d/1-BbiWAKKTQ2Jee-8mqsXCc5fq5DHN-UY/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download_Resume-61DAFB?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume"/>
+  </a>
 </p>
+
 
 
 <p align="center">

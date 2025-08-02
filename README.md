@@ -10,7 +10,7 @@
 
 <!-- Resume Button -->
 <p align="center">
-  <a href="https://drive.google.com/file/d/1-BbiWAKKTQ2Jee-8mqsXCc5fq5DHN-UY/view?usp=drivesdk" target="_blank">
+  <a href="https://resume.rokhub.shop" target="_blank">
     <img src="https://img.shields.io/badge/📄_Download_Resume-61DAFB?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume"/>
   </a>
 </p>

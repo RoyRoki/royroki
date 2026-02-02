@@ -2,16 +2,16 @@
   <img src="https://github.com/RoyRoki/royroki/blob/master/generated-image-cf94962e-1db0-449e-914d-8583af7f795c-ezgif.com-crop.gif" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoyRoki&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyRoki&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-
 <!-- Resume Button -->
 <p align="center">
-  <a href="https://resume.rokhub.shop" target="_blank">
+  <a href="https://royroki.github.io/static-resume/" target="_blank">
     <img src="https://img.shields.io/badge/📄_Download_Resume-61DAFB?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume"/>
+  </a>
+</p>
+<!-- Portfolio Button -->
+<p align="center">
+  <a href="https://royroki.github.io/wowfy/" target="_blank">
+    Visit My Side.
   </a>
 </p>
 

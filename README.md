@@ -1,26 +1,69 @@
-<p align="center">
-  <img src="https://github.com/RoyRoki/royroki/blob/master/generated-image-cf94962e-1db0-449e-914d-8583af7f795c-ezgif.com-crop.gif" width="100%" />
-</p>
+<div align="center">
 
-<!-- Resume Button -->
-<p align="center">
-  <a href="https://royroki.github.io/static-resume/" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Download_Resume-61DAFB?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume"/>
-  </a>
-</p>
-<!-- Portfolio Button -->
-<p align="center">
-  <a href="https://royroki.in/" target="_blank">
-    Visit My Side.
-  </a>
-</p>
+```
+ ██████╗  ██████╗ ██╗  ██╗██╗    ██████╗  ██████╗ ██╗   ██╗
+ ██╔══██╗██╔═══██╗██║ ██╔╝██║    ██╔══██╗██╔═══██╗╚██╗ ██╔╝
+ ██████╔╝██║   ██║█████╔╝ ██║    ██████╔╝██║   ██║ ╚████╔╝ 
+ ██╔══██╗██║   ██║██╔═██╗ ██║    ██╔══██╗██║   ██║  ╚██╔╝  
+ ██║  ██║╚██████╔╝██║  ██╗██║    ██║  ██║╚██████╔╝   ██║   
+ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝    ╚═╝  ╚═╝ ╚═════╝    ╚═╝   
+```
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=800&color=CC785C&center=true&vCenter=true&width=500&lines=Backend+Engineer+%2F+Go+%2F+Distributed+Systems;SDE+1+%40+Fordel+Studios;Building+%40+rokiroy.in)](https://git.io/typing-svg)
 
+</div>
 
-<p align="center">
-  <img src="https://github.com/RoyRoki/royroki/blob/master/generated-image-cf94962e-1db0-449e-914d-8583af7f795c-ezgif.com-crop(4).gif" width="100%" />
-</p>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=61DAFB&center=true&vCenter=true&width=750&height=70&lines=I+am+a+cool+coder+%F0%9F%98%8E;It+works+on+my+machine+%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F;ChatGPT+wrote+this+%F0%9F%A4%96;JavaScript:+The+good,+bad+%26+ugly;Production?+We+don't+test+there;No+cap,+this+code+is+bussin+%F0%9F%94%A5;Dark+mode+everything+%F0%9F%8C%99;AI+will+replace+us...+someday;Coding+is+fun!;Fixing+one+bug,+creating+three+more;Copilot+is+my+pair+programmer;React+useEffect+[]...+or+not?;404:+Motivation+not+found;Debugging:+It's+giving+main+character;Light+theme?+My+eyes+are+bleeding;Bun+is+the+new+Node;Debugging+is+like+being+a+detective;Stack+Overflow+is+my+second+home;npm+install+anxiety;Why+does+this+work?+Don't+touch+it!;Localhost:+Where+dreams+come+true;This+API+is+mid,+fr+fr;Syntax+highlighting+saves+lives;TypeScript+or+die;Code+never+lies,+comments+sometimes+do;CSS+is+awesome...+said+no+one+ever;Docker:+It+works+everywhere;Git+add+.+Git+commit+-m+%22fix%22;CORS+error:+The+developer's+nemesis;Code+reviews+hit+different;Vim+user:+How+do+I+exit?;Astro+is+pretty+cool+%E2%9C%A8;Keep+calm+and+code+on!;Tabs+vs+Spaces...+the+eternal+war;Kubernetes:+Making+simple+things+complex;console.log(everything);Database+query+goes+brrrr;Touch+grass?+I+touch+keyboards;Terminal:+Green+text+on+black;WASM:+The+future+is+now;Eat,+Sleep,+Code,+Repeat;99+little+bugs+in+the+code...;Microservices:+Distributed+monolith;It's+not+a+bug,+it's+a+feature;Work+from+home:+Bed+to+desk;IDE+theme:+Darker+than+my+soul;Deno+2.0+has+entered+the+chat;Rubber+duck+debugging+%F0%9F%A6%86;Legacy+code:+Abandon+all+hope;Server+is+down...+again;Git+commit:+%22yeet%22;Caffeine.exe+has+stopped+working" alt="Ultimate Developer Memes" />
-</p>
+```bash
+$ whoami
+roki-roy — backend engineer, go enthusiast, distributed systems
+
+$ cat stack.txt
+backend   : Go, PostgreSQL, Redis, Docker, gRPC
+frontend  : Next.js, React, TypeScript
+mobile    : Flutter, Swift
+cloud     : AWS, Firebase
+
+$ ./metrics
+api latency reduced   : 25-40%   (query optimization + caching)
+active users served   : 5,000+   (98% crash-free sessions)
+apis integrated       : 5+       (e-commerce platform)
+```
+
+---
+
+```bash
+$ ls ./projects
+```
+
+| repo | stack | about |
+|:---|:---|:---|
+| [ZenliAI](https://github.com/RoyRoki/AI-CREATIVE-CONTENT-GENERATOR) | Go · Redis · Asynq · PostgreSQL | async AI content generation engine |
+| [VayuRoom](https://github.com/RoyRoki/vayuroom) | WebRTC · React · Firebase | zero-knowledge E2EE video platform |
+| [DooarsDil](https://github.com/RoyRoki/Dooars_Dil) | Go · PostGIS · Redis | hyper-local matchmaking backend |
+| [Astra Terra](https://www.astraterra.ae/) | Next.js · GSAP · Firebase | real estate platform, 200+ listings |
+
+---
+
+```bash
+$ cat links.txt
+portfolio  : https://www.rokiroy.in
+github     : https://github.com/royroki
+linkedin   : https://linkedin.com/in/rokiroy
+freelance  : https://royroki.github.io/wowfy
+email      : rokiroydev@gmail.com
+phone      : +91 9800 881 300
+```
+
+<div align="center">
+
+<br/>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=royroki&show_icons=true&bg_color=0d1117&title_color=CC785C&icon_color=CC785C&text_color=8b949e&border_color=30363d&hide_title=true)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=royroki&color=CC785C&style=flat-square&label=profile+views)
+
+</div>
